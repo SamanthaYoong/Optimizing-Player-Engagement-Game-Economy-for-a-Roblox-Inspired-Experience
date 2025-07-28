@@ -12,7 +12,7 @@ I analyzed a mock Roblox-style game dataset to:
 
 ---
 
-## 🔍 1. Extracting & Interpreting Player Data
+## 📌 1. Extracting & Interpreting Player Data
 - Queried mock player event data (logins, level progression, transactions) using **SQL**.
 
 ```sql
@@ -24,26 +24,26 @@ GROUP BY level_reached;
 - Findings:
 - **40% drop-off** between Level 3 → Level 4
 - **25% of players** were hoarding currency, stalling the game economy
-📊 **Tools:** SQL + Tableau  
+- **Tools:** SQL + Tableau  
 ✅ **Impact:** Clear insight into where and why players disengaged.
 
 ---
 
-## ⚠️ Identifying & Solving Game Design Issues
+## 📌 Identifying & Solving Game Design Issues
 
 ### Issues Found:
 - Currency hoarding  
 - Level skipping exploit via teleport mechanic  
 
-### 💡 Solutions Proposed:
+### ✅ Solutions Proposed:
 - Added **currency sink** (limited-time cosmetic shop + energy boosts)  
 - Patched teleport exploit & rebalanced rewards in Levels 2–4  
 
-📈 **Expected Outcome:** More stable economy & smoother level progression.
+✅ **Expected Outcome:** More stable economy & smoother level progression.
 
 ---
 
-## 🧪 Optimizing Engagement via A/B Testing
+## 📌 Optimizing Engagement via A/B Testing
 
 Designed an **A/B test** for onboarding flow:
 
@@ -51,36 +51,36 @@ Designed an **A/B test** for onboarding flow:
 |-------------------|-------------------|
 | Standard tutorial | Shorter, interactive tutorial + early rewards |
 
-### 📊 Results:
+### ✅ Results:
 - +18% **Day 1 retention**
 - +12% **increase in in-game purchases**
 
-📊 **Tools:** Python (Pandas for mock analysis) + Tableau dashboards
+✅ **Tools:** Python (Pandas for mock analysis) + Tableau dashboards
 
 ---
 
-## 🔄 Supporting Live-Service Updates
+## 📌 Supporting Live-Service Updates
 
 - Tracked **player sentiment** post-updates via dashboards.  
 - Found **spikes** after limited-time events but **drop-offs** when rewards expired.  
 
-💡 **Strategy Proposed:** Weekly **mini-events** to keep engagement steady.
+✅ **Strategy Proposed:** Weekly **mini-events** to keep engagement steady.
 
 ---
 
-## 💰 Monetization & Game Economy Balancing
+## 📌 Monetization & Game Economy Balancing
 
 ### Findings:
 - 70% of revenue came from **5% of players** (“whales”)  
 - Majority of players didn’t spend  
 
-### 📈 Recommendations:
+### ✅ Recommendations:
 - Add **microtransactions <$1** for casual players  
 - Introduce **daily “free spin”** to drive engagement & purchases  
 
 ---
 
-## 📊 Dashboards & Insights Delivery
+## 📌 Dashboards & Insights Delivery
 
 Built a **Tableau dashboard** to track:
 - Player retention (D1, D7, D30)
@@ -88,7 +88,7 @@ Built a **Tableau dashboard** to track:
 - Level drop-off points
 - Currency inflow/outflow
 
-### 🗂️ Deliverables:
+### ✅ Deliverables:
 - Tableau Dashboard *(mock dataset)*
 - A/B Test Python Notebook *(GitHub link)*
 
@@ -104,7 +104,7 @@ Built a **Tableau dashboard** to track:
 
 ---
 
-## 📂 Links
+## 📌 Links
 
 - [🔗 Tableau Dashboard](#) *(upload to Tableau Public)*  
 - [📘 A/B Test Notebook](#) *(link to .ipynb on GitHub)*  
