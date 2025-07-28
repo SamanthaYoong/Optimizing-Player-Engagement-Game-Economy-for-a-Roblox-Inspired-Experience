@@ -106,7 +106,7 @@ Built a **Tableau dashboard** to track:
 
 ## 📌 Links
 
-- [🔗 Tableau Dashboard](https://public.tableau.com/app/profile/samantha.yoong/vizzes) *(upload to Tableau Public)*    
+- [🔗 Tableau Portfolio](https://public.tableau.com/app/profile/samantha.yoong/vizzes) *(upload to Tableau Public)*    
 
 ---
 
