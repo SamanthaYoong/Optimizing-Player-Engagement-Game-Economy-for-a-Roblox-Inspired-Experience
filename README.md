@@ -106,8 +106,7 @@ Built a **Tableau dashboard** to track:
 
 ## 📌 Links
 
-- [🔗 Tableau Dashboard](#) *(upload to Tableau Public)*  
-- [📘 A/B Test Notebook](#) *(link to .ipynb on GitHub)*  
+- [🔗 Tableau Dashboard](https://public.tableau.com/app/profile/samantha.yoong/vizzes) *(upload to Tableau Public)*    
 
 ---
 
