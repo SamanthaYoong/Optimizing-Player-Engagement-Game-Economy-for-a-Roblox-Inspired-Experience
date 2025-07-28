@@ -1,4 +1,4 @@
-#  Roblox Game Analytics Case Study
+# 🎮 Roblox Game Analytics Case Study
 **Optimizing Player Engagement & Game Economy for a Roblox-Inspired Experience**
 
 ---
