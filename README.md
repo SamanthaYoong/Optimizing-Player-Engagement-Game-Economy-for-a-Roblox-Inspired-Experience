@@ -1,9 +1,9 @@
-# 🎮 Roblox Game Analytics Case Study
+#  Roblox Game Analytics Case Study
 **Optimizing Player Engagement & Game Economy for a Roblox-Inspired Experience**
 
 ---
 
-## 📌 Objective
+## 🎮 Objective
 This project simulates the work of a **Data Analyst** at Sawhorse Productions.  
 I analyzed a mock Roblox-style game dataset to:
 - Identify **player engagement drop-offs**
